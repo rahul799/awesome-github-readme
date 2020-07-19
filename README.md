@@ -4,21 +4,21 @@
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
 ## Contents
-- [Examples](Examples) 
-	- [Project Logo](Project Logo)
-	- [Clear description](Clear%20description)
-	- [Badges](Badges)
-	- [Multiple badges](Multiple%20badges)
-	- [Informative badges](Informative%20badges)
-	- [Project banner](Project%20banner)
-	- [GIF Demo](GIF%20Demo)
-	- [Other](Other)
-- [Articles](Articles)
-- [Tools](Tools)
-- [Creating GIFs](Creating%20GIFs)
-- [Get Feedback](Get%20Feedback)
-- [License](Contribute)
-- [Contribute](License)
+- [Examples](#Examples) 
+	- [Project Logo](#Project-Logo)
+	- [Clear description](#Clear-description)
+	- [Badges](#Badges)
+	- [Multiple badges](#Multiple-badges)
+	- [Informative badges](#Informative-badges)
+	- [Project banner](#Project-banner)
+	- [GIF Demo](#GIF-Demo)
+	- [Other](#Other)
+- [Articles](#Articles)
+- [Tools](#Tools)
+- [Creating GIFs](#Creating-GIFs)
+- [Get Feedback](#Get-Feedback)
+- [License](#Contribute)
+- [Contribute](#License)
 
 ## Examples
 
