@@ -28,7 +28,7 @@ Geeks who are eager to contribute, must read it.
 
 ## Getting Started
 
-1. Goto the [Simple-Static-Website](https://github.com/The-Codesis/simple-static-website/) repository
+1. Goto the [awesome-github-readme](https://github.com/rahul799/awesome-github-readme/) repository
 2. Click on the Fork button in the upper right corner.
 
 Introduce your self to GIT, make sure you use an email associated with your GitHub account.
@@ -39,17 +39,17 @@ git config --global user.email johndoe@example.com
 
 Make sure you clone the forked repository.
 ```
-git clone https://github.com/<your username>/simple-static-website.git
+git clone https://github.com/<your username>/awesome-github-readme.git
 ```
 
-Switch Simple-Static-Website to your fork
+Switch awesome-github-readme to your fork
 ```
-git remote set-url origin https://github.com/<your username>/simple-static-website.git
+git remote set-url origin https://github.com/<your username>/awesome-github-readme.git
 ```
 
-Setup simple-static-website to be able to fetch from the master
+Setup awesome-github-readme to be able to fetch from the master
 ```
-git remote add upstream https://github.com/The-Codesis/simple-static-website.git
+git remote add upstream https://github.com/The-Codesis/awesome-github-readme.git
 ```
 
 ## Adding Features
@@ -66,11 +66,11 @@ Here is a simplified workflow on how to add a new feature:
 
 Syncing your forked repository to the original repository is an important step before submitting any pull request to the original repository. So, it goes something like, you fetch from the original repository (Upstream Repository) to your working area (your local copy) and merge it with the fork's master branch and then you push it to your forked Github repository.
 
-You can see all your remotes with ```git remote -v```, if you don't have upstream set as ```https://github.com/The-Codesis/simple-static-website.git```, set up  the original repository as your upstream.
+You can see all your remotes with ```git remote -v```, if you don't have upstream set as ```https://github.com/rahul799/awesome-github-readme.git```, set up  the original repository as your upstream.
 ```
-git remote add upstream https://github.com/The-Codesis/simple-static-website.git
+git remote add upstream https://github.com/rahul799/awesome-github-readme.git
 ```
-By now, you have set the upstream as the original repository i.e. ```https://github.com/The-Codesis/simple-static-website.git``` and the origin as the forked repository i.e. ```https://github.com/<your username>/simple-static-website.git```.
+By now, you have set the upstream as the original repository i.e. ```https://github.com/rahul799/awesome-github-readme.git``` and the origin as the forked repository i.e. ```https://github.com/<your username>/awesome-github-readme.git```.
 
 Now, fetch all of the changes from the original repository (note that commits to the original repository will be stored in a local branch called, upstream/master).
 ```
