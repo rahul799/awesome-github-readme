@@ -5,7 +5,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 ## Contents
 - [Examples](Examples) 
-	- [Project Logo](Project%20Logo)
+	- [Project Logo](Project Logo)
 	- [Clear description](Clear%20description)
 	- [Badges](Badges)
 	- [Multiple badges](Multiple%20badges)
